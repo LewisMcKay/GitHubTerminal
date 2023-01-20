@@ -1,0 +1,10 @@
+.subheadingContainer {
+    background-color: skyblue;
+    padding: 20%;
+    gap: 20px;
+}
+
+.bodyContainer {
+    background-color: green;
+    padding: 80%;
+}
